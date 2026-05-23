@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`exports should export expected named exports 1`] = `
+[
+  "FaceLivenessDetector",
+  "FaceLivenessDetectorCore",
+]
+`;
